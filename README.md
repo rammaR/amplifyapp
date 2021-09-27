@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aplicação React integrado a AWS
+  
+  Neste projeto segui o tutorial do próprio site da AWS para criar uma aplicação de bloco de notas com integração com serviços da Amazon AWS: Amplify, Bucket, Dynamo, GraphQL.
 
 ## Available Scripts
 
